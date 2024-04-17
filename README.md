@@ -16,7 +16,7 @@ TalkMate is a web-based AI assistant that can communicate with users in multiple
 #### Technologies Used:
 - **SpeechRecognition**: Enables speech recognition functionality for capturing user input via microphone.
 - **gTTS (Google Text-to-Speech)**: Provides text-to-speech conversion capabilities for generating audio responses.
-- **Google Generative AI**: Utilizes Google's Generative AI models, such as Gemini, for natural language processing tasks.
+- **Google Generative AI**: Utilizes Google's Generative AI model 'Gemini-Pro', for natural language processing tasks.
 - **Flask**: Powers the backend server for handling HTTP requests and serving web pages.
 - **Streamlit**: Facilitates the creation of the web-based user interface for TalkMate.
 - **Python-dotenv**: Manages environment variables, including sensitive information like API keys.
